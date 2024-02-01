@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Web Page</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Personal Web Page</h1>
+        <body>
+            <div class="container">
+                <h1>Charles Nshimiyimana</h1>
+        
+                <h2>Introduction</h2>
+                <p>Born and raised in Uganda within a refugee camp, my journey, Charles Nshimiyimana, has been one of resilience and diversity. I am currently exploring the expansive world of Information Technology (IT), where my passion for helping others and my love for soccer converge.</p>
+        
+                <h3>My Passion for Soccer and Helping Others</h3>
+                <p>Soccer is not just a game for me; it's a way of life. Playing FIFA and engaging in soccer activities, coupled with my commitment to volunteering at non-profits, forms the core of my interests. This passion seamlessly blends with my IT pursuits. For instance, using my web development skills, I can create platforms for organizing soccer events and enhancing the reach of non-profit organizations. My project, African Youth Ministry, aims to establish a digital community for sharing ideas, stories, and managing activities, thus marrying my IT knowledge with my love for soccer and community service.</p>
+        
+
+                <h2>My favorite website</h2>
+                <p>my favorite soccer website for the latest news and scores: <a href="https://www.fotmob.com/" target="_blank">FotMob</a>.</p>
+        
+                <h2>My Hobby</h2>
+                <p> Image that represents myfavorite hobby </p>
+                <img src="boot-on-soccer-ball-generic-b.jpg" alt="Charles playing soccer" width="500">
+
+            </div>
+
+        <h2>Class Schedule for Spring Semester 2024</h2>
+        <table>
+            <tr>
+                <th>Class Name</th>
+                <th>Class Day/Time</th>
+                <th>Class Description</th>
+            </tr>
+            <tr>
+                <td>Marketing - BUS 261</td>
+                <td>11:40 am - 12:30 pm MWF</td>
+                <td>study of how to identify and meet consumer needs through strategic product promotion, pricing, distribution, and branding.</td>
+            </tr>
+            <tr>
+                <td>Intro to Computer Organization - CS 241</td>
+                <td>8:00 am - 8:50 am MWF</td>
+                <td>A class that delves into the intricate workings of computers in great detail.</td>
+            </tr>
+            <tr>
+                <td>Volleyball - HHP 132</td>
+                <td>1:40 pm - 2:30 pm MW</td>
+                <td>Activity course teaching how to play valleyball and playing it</td>
+            </tr>
+            <tr>
+                <td>Web Development - IT 221</td>
+                <td>TBA</td>
+                <td>learing how to design and create website</td>
+            </tr>
+            <tr>
+                <td>Systems Administration - IT 310</td>
+                <td>10:00 am - 10:50 am MWF</td>
+                <td>Focused on the maintenance, configuration, and reliable operation of computer systems, particularly multi-user computers, such as servers.</td>
+            </tr>
+            <tr>
+                <td>Digital Forensics - IT 312</td>
+                <td>8:00 am - 9:15 am TR</td>
+                <td>practice of uncovering and interpreting electronic data for use in criminal investigations and legal proceedings.</td>
+            </tr>
+        </table>
+        <h2>Favorite Books</h2>
+        <ol>
+            <li><strong>Facing the Lion</strong> by Dr. Herman J. Viola and Joseph Lekuton<br>This book inspires me with its profound narrative of courage and cultural understanding, reflecting my own experiences in overcoming challenges.</li>
+            <li><strong>Sapiens: A Brief History of Humankind</strong> by Yuval Noah Harari<br>Harari's exploration of human history and evolution fascinates me, offering insights that parallel my journey in the diverse field of IT.</li>
+            <li><strong>The Alchemist</strong> by Paulo Coelho<br>The story's message about following one's dreams resonates deeply with me, mirroring my pursuit of goals in soccer and IT.</li>
+            <li><strong>1984</strong> by George Orwell<br>Orwell's vision of a dystopian future captivates me, as it contrasts sharply with my aspirations for a world empowered by technology and community.</li>
+            <li><strong>To Kill a Mockingbird</strong> by Harper Lee<br>Lee's powerful narrative on justice and moral growth echoes my own values of resilience and making a positive impact in society.</li>
+        </ol>
+
+        <h2>Least Favorite Movies</h2>
+        <ul>
+            <li>Cats (2019)</li>
+            <li>The Emoji Movie (2017)</li>
+            <li>Dolittle (2020)</li>
+        </ul>
+    </div>
+</body>
+</html>
